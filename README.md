@@ -2,11 +2,7 @@
 <h3 align="center">Computer Science student from Germany</h3>
 <br>
 
-- 🔭 I’m currently working on **my Masterthesis**
-
-- 🌱 I’m currently learning **Apache Guacamole**
-
-- 💻  I’m currently looking for a **job**
+- 🔭 I’m currently working as a **.Net Developer**
 
 
 <h3 align="left">🛠️ Projects and projects I've Contributed To</h3>
