@@ -20,7 +20,7 @@
 
 **Testing:** MSTest, FakeItEasy, FluentAssertions
 
-**DevOps:** Git, Docker, Gitlab CI/CD Pipelines
+**DevOps:** Git, Docker, Azure DevOps, Gitlab CI/CD Pipelines
 
 
 ### 📚 University Projects
